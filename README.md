@@ -49,9 +49,10 @@ Resume-Analyzer/
 🔧 Installation
 Clone the repository and install dependencies:
 ```
-git clone https://github.com/yourusername/resume-analyzer.git
-cd resume-analyzer
+git clone https://github.com/Abdul00YO/Resume_Analyzer.git
+cd Resume_Analyzer
 pip install -r requirements.txt
+
 ```
 ▶️ Usage
 Run the app locally with:
